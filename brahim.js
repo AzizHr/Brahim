@@ -1,1 +1,1 @@
-document.write("hello world");
+document.write("Brahim is the best");
